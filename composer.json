@@ -1,0 +1,10 @@
+{
+  "require-dev": {
+    "phpspec/phpspec": "^6.2",
+    "friends-of-phpspec/phpspec-code-coverage": "^4.3"
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "autoload": {"psr-0": {"": "src"}}
+}
